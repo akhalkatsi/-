@@ -76,7 +76,7 @@ ____________
 საფრანგეთში ყველა ფავორიტმა მოახერხა გამარჯვება ესენია: პსჟ, ოლიმპიკ ლიონი და ლილი 
 პსჟ-მ მარსელს ძლია 2-0 
 ლილმა 2-0 ხოლო ლიონმა კი 3-0 მოიგეს 
-ასეთი იყო ტოპ5 ლიგის მიმოხილვა <br></br></h4><center><img src="https://scontent.ftbs5-1.fna.fbcdn.net/v/t1.0-9/148922102_171166801293486_4125074847733416056_n.jpg?_nc_cat=102&ccb=1-3&_nc_sid=8bfeb9&_nc_ohc=ixARirVj6XYAX9fGeyD&_nc_ht=scontent.ftbs5-1.fna&oh=6b154679bf73b66cf690b4aa7fdc3a18&oe=6071C96F" alt="" width="500px">   <img src="" alt="" width="500px"> <img src="https://scontent.ftbs5-1.fna.fbcdn.net/v/t1.0-9/149327122_171166751293491_3945403564351035078_n.jpg?_nc_cat=108&ccb=1-3&_nc_sid=8bfeb9&_nc_ohc=2At3eduBfMQAX_OYREq&_nc_ht=scontent.ftbs5-1.fna&oh=be3c8e6b8ce49df192606d602528e90a&oe=6071DCA8" alt="" width="500px" height="455px"></br></center>
+ასეთი იყო ტოპ5 ლიგის მიმოხილვა <br></br></h4><center><img src="https://scontent.ftbs5-1.fna.fbcdn.net/v/t1.0-9/148922102_171166801293486_4125074847733416056_n.jpg?_nc_cat=102&ccb=1-3&_nc_sid=8bfeb9&_nc_ohc=ixARirVj6XYAX9fGeyD&_nc_ht=scontent.ftbs5-1.fna&oh=6b154679bf73b66cf690b4aa7fdc3a18&oe=6071C96F" alt="" width="500px">   <img src="" alt="" width="500px"> <img src="https://scontent.ftbs5-1.fna.fbcdn.net/v/t1.0-9/149327122_171166751293491_3945403564351035078_n.jpg?_nc_cat=108&ccb=1-3&_nc_sid=8bfeb9&_nc_ohc=2At3eduBfMQAX_OYREq&_nc_ht=scontent.ftbs5-1.fna&oh=be3c8e6b8ce49df192606d602528e90a&oe=6071DCA8" alt="" width="500px" height="455px"></center>
   
     
    </div>
