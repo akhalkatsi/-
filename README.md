@@ -5,15 +5,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>psitive news</title>
-     <style>body{background-color: rgb(20, 20, 20);}
-   
-   
-    
-    
-    
-    
-    
-   </style>
+    <style>body{background-color: rgb(20, 20, 20);}</style>
 </head>
 <body>
   
