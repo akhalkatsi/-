@@ -17,10 +17,10 @@
 <body>
   
   
- <a  target="blank" href="https://www.facebook.com/Positive-News-%E1%83%9E%E1%83%9D%E1%83%96%E1%83%98%E1%83%A2%E1%83%98%E1%83%A3%E1%83%A0%E1%83%98-%E1%83%A1%E1%83%98%E1%83%90%E1%83%AE%E1%83%9A%E1%83%94%E1%83%94%E1%83%91%E1%83%98-167972634946236"  ><img src="XD.png" alt="" width="50px"></a> <p ><h1 style = "background-color: rgba(190, 184, 87, 0.493);color: rgb(104, 133, 214);width:500px;"  > პოზიტიური ამბები :)</h1></p>
+<br> <a  target="blank" href="https://www.facebook.com/Positive-News-%E1%83%9E%E1%83%9D%E1%83%96%E1%83%98%E1%83%A2%E1%83%98%E1%83%A3%E1%83%A0%E1%83%98-%E1%83%A1%E1%83%98%E1%83%90%E1%83%AE%E1%83%9A%E1%83%94%E1%83%94%E1%83%91%E1%83%98-167972634946236"  ><img src="XD.png" alt="" width="50px"></a> <p ><h1 style = "background-color: rgba(190, 184, 87, 0.493);color: rgb(104, 133, 214);width:500px;"  > პოზიტიური ამბები :)</h1></p>
     
     
-  <div ><h3 style="width: 500px;background-coslor: rgba(21, 235, 32, 0.507);color: rgb(123, 187, 50);">ეს საიტი შექმნილია <br> პოზიტიური ამბების გასავრცელებლად :3   </h3>    
+  <br><div ><h3 style="width: 500px;background-coslor: rgba(21, 235, 32, 0.507);color: rgb(123, 187, 50);">ეს საიტი შექმნილია <br> პოზიტიური ამბების გასავრცელებლად :3   </h3>    
         <h4 style="background-color: rgba(255, 248, 220, 0.521);" >26/02/2021მოგესალმებით დღეისთვის კარგი ამბვავი მაქვს ცნობილია ადამიანი-ობობა 3-ის ქვესახელი Spider-Man: No Way Home . მინდა გითხრათ რომ ეს პროექტი ისევე როგორც Doctor Strange 2: the Multiverse of Madness და WandaVision   შედის  მულტი სამყაროს პროექტში</h4><center><img src="https://scontent.ftbs5-2.fna.fbcdn.net/v/t1.0-9/154930270_188556862887813_8051279562013112943_n.png?_nc_cat=109&ccb=1-3&_nc_sid=730e14&_nc_ohc=eIGQ6Z_61psAX9ueNun&_nc_ht=scontent.ftbs5-2.fna&oh=e71ad21295e107e15883e7b1e44317c6&oe=6072AE4A" alt=""></center>
         
   <h4 style="background-color: rgba(255, 248, 220, 0.521);"><br>25/02/2021პრემიერ-მინისტრის ხელმძღვანელობით მოქმედი უწყებათაშორისი საკოორდინაციო საბჭოს გადაწყვეტილებით, მუნიციპალური ტრანსპორტი შაბათ-კვირასაც იმუშავებს.</h4><center><img src="https://scontent.ftbs5-1.fna.fbcdn.net/v/t1.0-9/153958724_187819836294849_7907786918182438507_n.jpg?_nc_cat=104&ccb=1-3&_nc_sid=8bfeb9&_nc_ohc=R8qpQZ9iH_MAX_f9hKp&_nc_ht=scontent.ftbs5-1.fna&oh=53641bd22ff5e880d9591d8e9a7becc4&oe=60701F82" alt=""></center>
