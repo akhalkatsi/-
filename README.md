@@ -15,7 +15,7 @@
   </style>
 </head>
 <body>
-  
+  <div class="block" style="background-color: aqua; color: aqua;">xd </div>
   
 <br> <a  target="blank" href="https://www.facebook.com/Positive-News-%E1%83%9E%E1%83%9D%E1%83%96%E1%83%98%E1%83%A2%E1%83%98%E1%83%A3%E1%83%A0%E1%83%98-%E1%83%A1%E1%83%98%E1%83%90%E1%83%AE%E1%83%9A%E1%83%94%E1%83%94%E1%83%91%E1%83%98-167972634946236"  ><img src="XD.png" alt="" width="50px"></a> <p ><h1 style = "background-color: rgba(190, 184, 87, 0.493);color: rgb(104, 133, 214);width:500px;"  > პოზიტიური ამბები :)</h1></p>
     
@@ -77,7 +77,7 @@
 ლილმა 2-0 ხოლო ლიონმა კი 3-0 მოიგეს 
 ასეთი იყო ტოპ5 ლიგის მიმოხილვა <br></br></h4><center><img src="https://scontent.ftbs5-1.fna.fbcdn.net/v/t1.0-9/148922102_171166801293486_4125074847733416056_n.jpg?_nc_cat=102&ccb=1-3&_nc_sid=8bfeb9&_nc_ohc=ixARirVj6XYAX9fGeyD&_nc_ht=scontent.ftbs5-1.fna&oh=6b154679bf73b66cf690b4aa7fdc3a18&oe=6071C96F" alt="" width="500px">   <img src="" alt="" width="500px"> <img src="https://scontent.ftbs5-1.fna.fbcdn.net/v/t1.0-9/149327122_171166751293491_3945403564351035078_n.jpg?_nc_cat=108&ccb=1-3&_nc_sid=8bfeb9&_nc_ohc=2At3eduBfMQAX_OYREq&_nc_ht=scontent.ftbs5-1.fna&oh=be3c8e6b8ce49df192606d602528e90a&oe=6071DCA8" alt="" width="500px" height="455px"></center>
   <center><h4 style="color: rgb(48, 48, 48);">positivenews199@gmail.com</h4></center>
-    
+    <div class="block" style="background-color: aqua; color: aqua;">xd </div>
    </div>
    
 </body>
