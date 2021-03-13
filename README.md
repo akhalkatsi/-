@@ -49,7 +49,7 @@
     მეპატრონმა აღნიშნა, რომ ძაღლს ცხელების სიმპტომები და ცხვირიდან გამონადენი ქონდა მას შემდეგ, რაც ჯანმრთელობის დაცვის სამინისტრომ შინაური ცხოველების პატრონებს ეპიდემიოლოგიური გამოკვლევა გაუგზავნა.
     ვეტერინარმა ცხვირიდან სინჯები აიღო და გადაიტანა სეულის ცხოველთა სანიტარულ ლაბორატორიაში
     ეს იყო პირველი შემთხვევა სამხრეთ კორეაში, მას შემდეგ, რაც კატას დაუდასტურდა   COVID-19.
-    "ხალხი შეშფოთებულია მას შემდეგ, რაც ცხოველებში COVID-19-ის პირველი შემთხვევა დადასტურდა. ამიტომ, ჩვენ ვიწყებთ ტესტს ცხოველების უსაფრთხოების უზრუნველსაყოფად", - თქვა სენგის ცხოველთა დაცვის სამმართველოს ოფიციალურმა წარმომადგენელმა სონგ ინ-იუნმა.</h4><br><center><img src="https://scontent.ftbs5-1.fna.fbcdn.net/v/t1.0-0/p552x414/148520155_172035767873256_3295104103605046458_n.jpg?_nc_cat=104&ccb=1-3&_nc_sid=8bfeb9&_nc_ohc=senrlmdbR0oAX-HY4v9&_nc_ht=scontent.ftbs5-1.fna&tp=6&oh=07797bf46a944d8a5ba8068fc8cda805&oe=606FD897" alt="" width="700px"> <img src="https://scontent.ftbs5-1.fna.fbcdn.net/v/t1.0-9/148523925_172035794539920_8100391036552348260_n.jpg?_nc_cat=107&ccb=1-3&_nc_sid=8bfeb9&_nc_ohc=Opuh0jCxjxIAX8WgtAM&_nc_ht=scontent.ftbs5-1.fna&oh=54106cca31462c4a91bba414d7a0aa33&oe=606EC58D" alt="" width="700px"> </center>
+    "ხალხი შეშფოთებულია მას შემდეგ, რაც ცხოველებში COVID-19-ის პირველი შემთხვევა დადასტურდა. ამიტომ, ჩვენ ვიწყებთ ტესტს ცხოველების უსაფრთხოების უზრუნველსაყოფად", - თქვა სენგის ცხოველთა დაცვის სამმართველოს ოფიციალურმა წარმომადგენელმა სონგ ინ-იუნმა.</h4><center><img src="https://scontent.ftbs5-1.fna.fbcdn.net/v/t1.0-0/p552x414/148520155_172035767873256_3295104103605046458_n.jpg?_nc_cat=104&ccb=1-3&_nc_sid=8bfeb9&_nc_ohc=senrlmdbR0oAX-HY4v9&_nc_ht=scontent.ftbs5-1.fna&tp=6&oh=07797bf46a944d8a5ba8068fc8cda805&oe=606FD897" alt="" width="700px"> <img src="https://scontent.ftbs5-1.fna.fbcdn.net/v/t1.0-9/148523925_172035794539920_8100391036552348260_n.jpg?_nc_cat=107&ccb=1-3&_nc_sid=8bfeb9&_nc_ohc=Opuh0jCxjxIAX8WgtAM&_nc_ht=scontent.ftbs5-1.fna&oh=54106cca31462c4a91bba414d7a0aa33&oe=606EC58D" alt="" width="700px"> </center>
 
 
 <h4 style="background-color: rgba(255, 248, 220, 0.521);"><br>11/02/2021</br>გამარჯობა! გაცნობთ კინო სამყაროს ამბებს.უვე ხვალ გამოდის ვანდავოჟენის მეექვსე სერია ეს  ერთადერთი პროეკტია მარველ სტუდიოსგან რომელიც ჯერ ჯერობით გააჩნია მეოთხე ფაზას. შემდეგი ფილმები დაგეგმილია ან წლის მეორე ნახევარში ან 2022 წელს.
@@ -57,7 +57,7 @@
 <center><img src="https://scontent.ftbs5-1.fna.fbcdn.net/v/t1.0-9/149180634_171973731212793_3287139565433069321_n.png?_nc_cat=100&ccb=1-3&_nc_sid=730e14&_nc_ohc=ikcmZZ2kt8UAX9nV3kJ&_nc_ht=scontent.ftbs5-1.fna&oh=6fbd60f515afea33d8f92d7235c417df&oe=607081C1" alt="" width="500px" height="400px"></center>
 
 
-<h4 style="background-color: rgba(255, 248, 220, 0.521);"> <br>10/02/2021გამარჯობა 
+<h4 style="background-color: rgba(255, 248, 220, 0.521);">10/02/2021გამარჯობა 
 შემოვთავაზებთ ფეხბურთის მატჩების მიმოხილვას
 დავიწყოთ ლა ლიგით
 ერთ ერთმა ფავორიტმა მადრიდის რეალმა ბოლო ადგილოსან უესკასთან ითამაშა, სადაც რთული გამარჯვება მოიპოვა, რეალი 3 ქულას ფრანგ მცველ რაფაელ ვარანს უნდა უმადლოდნენ
@@ -76,7 +76,7 @@
 საფრანგეთში ყველა ფავორიტმა მოახერხა გამარჯვება ესენია: პსჟ, ოლიმპიკ ლიონი და ლილი 
 პსჟ-მ მარსელს ძლია 2-0 
 ლილმა 2-0 ხოლო ლიონმა კი 3-0 მოიგეს 
-ასეთი იყო ტოპ5 ლიგის მიმოხილვა <br></br></h4><center><img src="https://scontent.ftbs5-1.fna.fbcdn.net/v/t1.0-9/148922102_171166801293486_4125074847733416056_n.jpg?_nc_cat=102&ccb=1-3&_nc_sid=8bfeb9&_nc_ohc=ixARirVj6XYAX9fGeyD&_nc_ht=scontent.ftbs5-1.fna&oh=6b154679bf73b66cf690b4aa7fdc3a18&oe=6071C96F" alt="" width="500px">   <img src="" alt="" width="500px"> <img src="https://scontent.ftbs5-1.fna.fbcdn.net/v/t1.0-9/149327122_171166751293491_3945403564351035078_n.jpg?_nc_cat=108&ccb=1-3&_nc_sid=8bfeb9&_nc_ohc=2At3eduBfMQAX_OYREq&_nc_ht=scontent.ftbs5-1.fna&oh=be3c8e6b8ce49df192606d602528e90a&oe=6071DCA8" alt="" width="500px" height="455px"></br></center>
+ასეთი იყო ტოპ5 ლიგის მიმოხილვა <br></br></h4><center><img src="https://scontent.ftbs5-1.fna.fbcdn.net/v/t1.0-9/148922102_171166801293486_4125074847733416056_n.jpg?_nc_cat=102&ccb=1-3&_nc_sid=8bfeb9&_nc_ohc=ixARirVj6XYAX9fGeyD&_nc_ht=scontent.ftbs5-1.fna&oh=6b154679bf73b66cf690b4aa7fdc3a18&oe=6071C96F" alt="" width="500px">   <img src="" alt="" width="500px"> <img src="https://scontent.ftbs5-1.fna.fbcdn.net/v/t1.0-9/149327122_171166751293491_3945403564351035078_n.jpg?_nc_cat=108&ccb=1-3&_nc_sid=8bfeb9&_nc_ohc=2At3eduBfMQAX_OYREq&_nc_ht=scontent.ftbs5-1.fna&oh=be3c8e6b8ce49df192606d602528e90a&oe=6071DCA8" alt="" width="500px" height="455px"></center>
   <center><h4 style="color: rgb(48, 48, 48);">positivenews199@gmail.com</h4></center>
     
    </div>
